@@ -12,10 +12,7 @@
 //
 //= require rails-ujs
 //= require turbolinks
-<<<<<<< HEAD
 //= require react
 //= require react_ujs
 //= require components
-=======
->>>>>>> b8061cee3e3edc192d59f9f6c9bfa903be8238a3
 //= require_tree .
